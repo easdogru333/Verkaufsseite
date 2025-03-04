@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Favicon Erstellen</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #f97316;
+    }
+    .step {
+      margin-bottom: 20px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #eee;
+    }
+    .code {
+      background: #f5f5f5;
+      padding: 10px;
+      border-radius: 5px;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  <h1>Favicon für TheUnderdogLabs erstellen</h1>
+  
+  <div class="step">
+    <h2>Schritt 1: Hundefoto in ICO-Format konvertieren</h2>
+    <p>Um ein Favicon korrekt anzuzeigen, musst du dein Hundebild in das ICO-Format konvertieren. Hier sind zwei einfache Möglichkeiten:</p>
+    
+    <h3>Option 1: Online-Konverter verwenden</h3>
+    <ol>
+      <li>Besuche eine Website wie <a href="https://favicon.io" target="_blank">favicon.io</a> oder <a href="https://convertio.co" target="_blank">convertio.co</a></li>
+      <li>Lade dein Hundebild hoch</li>
+      <li>Konvertiere es in das ICO-Format</li>
+      <li>Lade die ICO-Datei herunter</li>
+      <li>Benenne die Datei als "favicon.ico"</li>
+      <li>Ersetze die bestehende Datei im public-Ordner</li>
+    </ol>
+    
+    <h3>Option 2: Desktop-Tool verwenden</h3>
+    <p>Wenn du ImageMagick installiert hast, kannst du folgenden Befehl verwenden:</p>
+    <div class="code">convert favicon.jpg -resize 16x16 favicon.ico</div>
+  </div>
+  
+  <div class="step">
+    <h2>Schritt 2: Alle Dateien hochladen</h2>
+    <p>Nachdem du die favicon.ico-Datei erstellt hast:</p>
+    <ol>
+      <li>Kopiere sie in den public-Ordner deines Projekts</li>
+      <li>Führe die Git-Befehle aus, um die Änderungen hochzuladen</li>
+      <li>Warte auf den Vercel-Build</li>
+    </ol>
+  </div>
+  
+  <div class="step">
+    <h2>Schritt 3: Cache leeren</h2>
+    <p>Nach dem Hochladen:</p>
+    <ol>
+      <li>Leere deinen Browser-Cache (Strg+Shift+Entf oder Cmd+Shift+Entf)</li>
+      <li>Öffne die Website in einem neuen Tab</li>
+    </ol>
+  </div>
+  
+  <p><strong>Hinweis:</strong> Diese Datei ist nur zur Information und kann nach der erfolgreichen Implementierung des Favicons gelöscht werden.</p>
+</body>
+</html> 
