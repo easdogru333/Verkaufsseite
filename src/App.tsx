@@ -163,7 +163,7 @@ export default function LandingPage() {
               {/* Button - rechte Seite */}
               <div className="flex-1 flex justify-end">
                 <motion.button
-                  className="bg-orange-500 text-white px-4 sm:px-6 py-1.5 sm:py-2 rounded-full text-xs sm:text-sm font-bold uppercase"
+                  className="bg-orange-500 text-white px-3 sm:px-6 py-1 sm:py-2 rounded-full text-xs sm:text-sm font-bold uppercase whitespace-nowrap"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                   onClick={openCalendar}
