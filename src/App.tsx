@@ -276,9 +276,9 @@ export default function LandingPage() {
               >
                 <div className="flex flex-col items-center space-y-4">
                   <span className="text-3xl">🚀</span>
-                  <h3 className="text-2xl font-bold text-orange-500">Starter – 6-Week Sprint</h3>
+                  <h3 className="text-2xl font-bold text-orange-500">Underdog Launch Core</h3>
                   <p className="text-base text-center mb-4">
-                    Kickstart your personal brand with a done-for-you system.
+                    Your foundation for Twitter success with proven strategies and daily execution.
                   </p>
                   <div className="flex flex-col space-y-3 w-full">
                     <div className="flex items-start">
@@ -308,9 +308,9 @@ export default function LandingPage() {
               >
                 <div className="flex flex-col items-center space-y-4">
                   <span className="text-3xl">🔥</span>
-                  <h3 className="text-2xl font-bold text-orange-500">Growth – Build & Scale</h3>
+                  <h3 className="text-2xl font-bold text-orange-500">Underdog Growth Pulse</h3>
                   <p className="text-base text-center mb-4">
-                    Establish yourself as a thought leader and attract inbound leads.
+                    Accelerate your growth with advanced strategies and community building.
                   </p>
                   <div className="flex flex-col space-y-3 w-full">
                     <div className="flex items-start">
@@ -340,9 +340,9 @@ export default function LandingPage() {
               >
                 <div className="flex flex-col items-center space-y-4">
                   <span className="text-3xl">💎</span>
-                  <h3 className="text-2xl font-bold text-orange-500">Elite OS – Total Domination</h3>
+                  <h3 className="text-2xl font-bold text-orange-500">Underdog Elite OS</h3>
                   <p className="text-base text-center mb-4">
-                    Full-service brand growth for founders who want to lead their industry.
+                    Complete brand domination with exclusive access and premium support.
                   </p>
                   <div className="flex flex-col space-y-3 w-full">
                     <div className="flex items-start">
