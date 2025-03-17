@@ -278,7 +278,7 @@ export default function LandingPage() {
                   <span className="text-3xl">🚀</span>
                   <h3 className="text-2xl font-bold text-orange-500">Underdog Launch Core</h3>
                   <p className="text-base text-center mb-4">
-                    Your foundation for Twitter success with proven strategies and daily execution.
+                    Ignite your brand in a 6-week sprint, guided by us, and receive a complete framework to grow your brand independently.
                   </p>
                   <div className="flex flex-col space-y-3 w-full">
                     <div className="flex items-start">
@@ -287,7 +287,7 @@ export default function LandingPage() {
                     </div>
                     <div className="flex items-start">
                       <span className="text-green-500 mr-2 w-5 flex-shrink-0">✓</span>
-                      <p className="text-sm">High-impact tweets, threads & replies</p>
+                      <p className="text-sm">High-impact tweets, threads & replies crafted by us</p>
                     </div>
                     <div className="flex items-start">
                       <span className="text-green-500 mr-2 w-5 flex-shrink-0">✓</span>
@@ -310,12 +310,12 @@ export default function LandingPage() {
                   <span className="text-3xl">🔥</span>
                   <h3 className="text-2xl font-bold text-orange-500">Underdog Growth Pulse</h3>
                   <p className="text-base text-center mb-4">
-                    Accelerate your growth with advanced strategies and community building.
+                    Become a thought leader in a 90-day program and build a long-term growth system to attract high-value opportunities.
                   </p>
                   <div className="flex flex-col space-y-3 w-full">
                     <div className="flex items-start">
                       <span className="text-green-500 mr-2 w-5 flex-shrink-0">✓</span>
-                      <p className="text-sm">Advanced content strategy & positioning</p>
+                      <p className="text-sm">Advanced content strategy & positioning by us</p>
                     </div>
                     <div className="flex items-start">
                       <span className="text-green-500 mr-2 w-5 flex-shrink-0">✓</span>
@@ -323,7 +323,7 @@ export default function LandingPage() {
                     </div>
                     <div className="flex items-start">
                       <span className="text-green-500 mr-2 w-5 flex-shrink-0">✓</span>
-                      <p className="text-sm">Daily interactions & lead generation</p>
+                      <p className="text-sm">Daily interactions & lead generation for you</p>
                     </div>
                     <div className="flex items-start">
                       <span className="text-green-500 mr-2 w-5 flex-shrink-0">✓</span>
@@ -342,12 +342,12 @@ export default function LandingPage() {
                   <span className="text-3xl">💎</span>
                   <h3 className="text-2xl font-bold text-orange-500">Underdog Elite OS</h3>
                   <p className="text-base text-center mb-4">
-                    Complete brand domination with exclusive access and premium support.
+                    Dominate your industry with an ongoing system that automates your personal brand to build authority and generate inbound opportunities.
                   </p>
                   <div className="flex flex-col space-y-3 w-full">
                     <div className="flex items-start">
                       <span className="text-green-500 mr-2 w-5 flex-shrink-0">✓</span>
-                      <p className="text-sm">High-level strategy & ghostwriting</p>
+                      <p className="text-sm">High-level strategy & ghostwriting for you</p>
                     </div>
                     <div className="flex items-start">
                       <span className="text-green-500 mr-2 w-5 flex-shrink-0">✓</span>
